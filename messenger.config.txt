@@ -1,0 +1,4 @@
+port 13000
+username james
+width 79
+height 25

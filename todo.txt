@@ -1,0 +1,19 @@
+error reporting and log
+
+why are there so many reflex pings?
+
+contacts:
+-anything from a known IP will be assumed to be from its associated user
+-anything from a known user will be assumed to be from its most recently associated IP
+
+make the notification be not the bell sound
+
+add configurability through messenger.config. Almost all constants should be here
+
+note to self: messages are maximum buf 1024 characters right now. That means a soft 738 character limit with base64 encoding
+
+add a command to display to ping to a user with the haveInternet.pyw
+
+scrolling functionality for main screen and message screen -- low priority. Probs need pyHook or sth
+encrypt -- low priority
+user specific ports -- v low priority
